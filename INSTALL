@@ -1,0 +1,9 @@
+Building Ioniccoin
+
+See doc/readme-qt.rst for instructions on building Ioniccoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ioniccoin.
+
+See doc/build-*.txt for instructions on building ioniccoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ioniccoin.
